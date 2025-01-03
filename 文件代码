@@ -1,0 +1,171 @@
+[UserCustom DeviceProfile]
++CVars=r.PUBGMaxSupportQualityLevel=4
++CVars=r.PUBGLDR=1
++CVars=r.PUBGDeviceFPSDef=8
++CVars=r.PUBGDeviceFPSLow=8
++CVars=r.PUBGDeviceFPSMid=8
++CVars=r.PUBGDeviceFPSHigh=8
++CVars=r.PUBGDeviceFPSHDR=8
++CVars=r.PUBGDeviceFPSUltralHigh=8
++CVars=r.PUBGDeviceFPSUltimateHigh=8
++CVars=r.PUBGMSAASupport=4
++CVars=r.UserHighResolutionSetting=0
++CVars=r.UserQualitySetting=2
++CVars=r.UserShadowSwitch=1
++CVars=r.ShadowQuality=1
++CVars=r.MobileContentScaleFactor=2.000000
++CVars=r.UserVulkanSetting=0
++CVars=r.UserQualitySettingTA=0
++CVars=r.MobileHDR=0.0
++CVars=r.Mobile.SceneColorFormat=0.0
++CVars=r.UserHDRSetting=2
++CVars=r.ACESStyle=1
++CVars=r.UserMSAASetting=1
++CVars=r.DefaultFeature.AntiAliasing=0.0
++CVars=r.MobileMSAA=1.0
++CVars=r.MSAACount=4.0
++CVars=r.MobileFXAA=0.0
++CVars=r.MaterialQualityLevel=1
++CVars=r.Shadow.MaxCSMResolution=1024
++CVars=r.Shadow.CSM.MaxMobileCascades=2
++CVars=r.Shadow.DistanceScale=0.5
++CVars=r.Mobile.DynamicObjectShadow=1
++CVars=r.DepthOfFieldQuality=0
++CVars=r.RefractionQuality=0
++CVars=r.StaticMeshLODDistanceScale=1.0
++CVars=foliage.LODDistanceScale=1.0
++CVars=foliage.MinLOD=0
++CVars=r.DetailMode=2
++CVars=r.MaxAnisotropy=4
++CVars=r.Streaming.PoolSize=300
++CVars=r.EmitterSpawnRateScale=1.0
++CVars=r.ParticleLODBias=0
++CVars=r.Mobile.ForceEnableIBL=1
++CVars=r.PUBGVersion=5
++CVars=r.Mobile.EnableIBL=0
++CVars=r.UseSurfelGI=0
++CVars=grass.densityScale=1
++CVars=r.Shadow.CSMCached=1
++CVars=r.UseMobileDynamicExposure=0
++CVars=r.VolumetricFog=0
++CVars=r.SuperFarShadow.Enable=0
++CVars=foliage.EnableNearCullDistance=0
++CVars=r.Shadow.CSMCached.CacheWPOMaterial=1
+
+[BackUp DeviceProfile]
++CVars=r.UserQualitySetting=2
++CVars=r.MobileContentScaleFactor=2
++CVars=r.MaterialQualityLevel=1
++CVars=r.ShadowQuality=1
++CVars=r.Shadow.MaxCSMResolution=1024
++CVars=r.Shadow.CSM.MaxMobileCascades=2
++CVars=r.Shadow.DistanceScale=0.5
++CVars=r.Mobile.DynamicObjectShadow=1
++CVars=r.DepthOfFieldQuality=0
++CVars=r.RefractionQuality=0
++CVars=r.StaticMeshLODDistanceScale=1.0
++CVars=foliage.LODDistanceScale=1.0
++CVars=foliage.MinLOD=0
++CVars=r.DetailMode=2
++CVars=r.MaxAnisotropy=4
++CVars=r.Streaming.PoolSize=300
++CVars=r.EmitterSpawnRateScale=1.0
++CVars=r.ParticleLODBias=0
++CVars=r.Mobile.ForceEnableIBL=1
++CVars=r.PUBGVersion=5
++CVars=r.UserHDRSetting=1
++CVars=r.MobileHDR=0
++CVars=r.Mobile.SceneColorFormat=0
++CVars=r.BloomQuality=0
++CVars=r.LightShaftQuality=0
++CVars=r.Mobile.TonemapperFilm=0
++CVars=r.Mobile.AlwaysResolveDepth=0
++CVars=r.UserMSAASetting=0
++CVars=r.MobileMSAA=1
++CVars=r.DefaultFeature.AntiAliasing=0
++CVars=r.Mobile.EnableIBL=0
++CVars=r.UseSurfelGI=0
++CVars=grass.densityScale=1
++CVars=r.Shadow.CSMCached=1
++CVars=r.UseMobileDynamicExposure=0
++CVars=r.VolumetricFog=0
++CVars=r.SuperFarShadow.Enable=0
++CVars=foliage.EnableNearCullDistance=0
++CVars=r.Shadow.CSMCached.CacheWPOMaterial=1
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1450014010</key>
+	<dict>
+		<key>osewR0pikHPPjLCseZ-5IWdEkXXA</key>
+		<dict>
+			<key>p</key>
+			<dict>
+				<key>d</key>
+				<data>
+				2Siywc82nYoMb9pQtVT++C09gzOHiu1vDVgooDgLqyhi
+				Z05PJI6+xwyTAgyVkn26
+				</data>
+				<key>l</key>
+				<string>32</string>
+			</dict>
+			<key>s</key>
+			<dict>
+				<key>d</key>
+				<data>
+				JbadKp1HiLj8ZerV6rM50FmLa4Piz+UD5u0MqLZyWDTY
+				p3P0fiEIaoKCkhulAYSW
+				</data>
+				<key>l</key>
+				<string>32</string>
+			</dict>
+			<key>t</key>
+			<dict>
+				<key>d</key>
+				<data>
+				UiFggncf0TI2+nBdJItlWBJMUvADMXSpsWldBHviTz0=
+				</data>
+				<key>l</key>
+				<string>10</string>
+			</dict>
+		</dict>
+	</dict>
+	<key>1450033041</key>
+	<dict>
+		<key>osewR0pikHPPjLCseZ-5IWdEkXXA</key>
+		<dict>
+			<key>p</key>
+			<dict>
+				<key>d</key>
+				<data>
+				7mBORXPSi/PDqcCCzaRA8G7s1nqVYGUj2wMExHjzXOvJ
+				MD5e1kpnGn/l+19fuobf
+				</data>
+				<key>l</key>
+				<string>32</string>
+			</dict>
+			<key>s</key>
+			<dict>
+				<key>d</key>
+				<data>
+				hhQZ16USwKZ+q1VtxL0Ajifi6RpqJcIzsmrhDSp18OFa
+				IfCd/j199iA9CtFAH7cn
+				</data>
+				<key>l</key>
+				<string>32</string>
+			</dict>
+			<key>t</key>
+			<dict>
+				<key>d</key>
+				<data>
+				/ntzO9Vw+JeBzLgoENPWHQaONLFflcoY1k7tr7KpdAI=
+				</data>
+				<key>l</key>
+				<string>10</string>
+			</dict>
+		</dict>
+	</dict>
+</dict>
+</plist>
